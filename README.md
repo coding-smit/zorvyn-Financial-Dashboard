@@ -120,7 +120,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-👉 Add your deployed link here (Vercel / Netlify)
+👉 https://zorvyn-financial-dashboard-mocha.vercel.app/
 
 ---
 
@@ -144,11 +144,7 @@ This project is built to showcase:
 
 ---
 
-## 📷 Screenshots
 
-(Add screenshots of your dashboard here)
-
----
 
 ## 🧑‍💻 Author
 
