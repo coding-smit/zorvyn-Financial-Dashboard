@@ -95,7 +95,7 @@ src/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/spendwise.git
+git clone https://github.com/coding-smit/Zorvyn-Financial-Dashboard.git
 ```
 
 2. Navigate to project:
